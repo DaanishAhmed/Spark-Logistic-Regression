@@ -1,0 +1,757 @@
+Name,PClass,Age,Sex,Survived,PersonID
+Allen Miss Elisabeth Walton,1st,29,female,1,1
+Allison Miss Helen Loraine,1st,2,female,0,2
+Allison Mr Hudson Joshua Creighton,1st,30,male,0,3
+Allison Mrs Hudson JC (Bessie Waldo Daniels),1st,25,female,0,4
+Allison Master Hudson Trevor,1st,0.92,male,1,5
+Anderson Mr Harry,1st,47,male,1,6
+Andrews Miss Kornelia Theodosia,1st,63,female,1,7
+Andrews Mr Thomas jr,1st,39,male,0,8
+Appleton Mrs Edward Dale (Charlotte Lamson),1st,58,female,1,9
+Artagaveytia Mr Ramon,1st,71,male,0,10
+Astor Colonel John Jacob,1st,47,male,0,11
+Astor Mrs John Jacob (Madeleine Talmadge Force),1st,19,female,1,12
+Baxter Mrs James (Helene DeLaudeniere Chaput),1st,50,female,1,13
+Baxter Mr Quigg Edmond,1st,24,male,0,14
+Beattie Mr Thomson,1st,36,male,0,15
+Beckwith Mr Richard Leonard,1st,37,male,1,16
+Beckwith Mrs Richard Leonard (Sallie Monypeny),1st,47,female,1,17
+Behr Mr Karl Howell,1st,26,male,1,18
+Birnbaum Mr Jakob,1st,25,male,0,19
+Bishop Mr Dickinson H,1st,25,male,1,20
+Bishop Mrs Dickinson H (Helen Walton),1st,19,female,1,21
+Bjornstrm-Steffansson Mr Mauritz Hakan,1st,28,male,1,22
+Blackwell Mr Stephen Weart,1st,45,male,0,23
+Blank Mr Henry,1st,39,male,1,24
+Bonnell Miss Caroline,1st,30,female,1,25
+Bonnell Miss Elizabeth,1st,58,female,1,26
+Bowen Miss Grace Scott,1st,45,female,1,27
+Bowerman Miss Elsie Edith,1st,22,female,1,28
+Brady Mr John Bertram,1st,41,male,0,29
+Brandeis Mr Emil,1st,48,male,0,30
+"Brown Mrs James Joseph (Margaret Molly"" Tobin)""",1st,44,female,1,31
+Brown Mrs John Murray (Caroline Lane Lamson),1st,59,female,1,32
+Bucknell Mrs William Robert (Emma Eliza Ward),1st,60,female,1,33
+Butt Major Archibald Willingham,1st,45,male,0,34
+Candee Mrs Edward (Helen Churchill Hungerford),1st,53,female,1,35
+Cardeza Mrs James Warburton Martinez (Charlotte Wardle Drake),1st,58,female,1,36
+Cardeza Mr Thomas Drake Martinez,1st,36,male,1,37
+Carlsson Mr Frans Olof,1st,33,male,0,38
+Carter Mr William Ernest,1st,36,male,1,39
+Carter Mrs William Ernest (Lucile Polk),1st,36,female,1,40
+Carter Miss Lucile Polk,1st,14,female,1,41
+Carter Master William T II,1st,11,male,1,42
+Case Mr Howard Brown,1st,49,male,0,43
+Cavendish Mr Tyrell William,1st,36,male,0,44
+Chaffee Mr Herbert Fuller,1st,46,male,0,45
+Chaffee Mrs Herbert Fuller (Carrie Constance Toogood),1st,47,female,1,46
+Chambers Mr Norman Campbell,1st,27,male,1,47
+Chambers Mrs Norman Campbell (Bertha Griggs),1st,31,female,1,48
+Clark Mr Walter Miller,1st,27,male,0,49
+Clark Mrs Walter Miller (Virginia McDowell),1st,26,female,1,50
+Compton Mrs Alexander Taylor (Mary Eliza Ingersoll),1st,64,female,1,51
+Compton Mr Alexander Taylor Jr,1st,37,male,0,52
+Compton Miss Sara Rebecca,1st,39,female,1,53
+Cornell Mrs Robert Clifford (Malvina Helen Lamson),1st,55,female,1,54
+Crosby Captain Edward Gifford,1st,70,male,0,55
+Crosby Mrs Edward Gifford (Catherine Elizabeth Halstead),1st,69,female,1,56
+Crosby Miss Harriet R,1st,36,female,1,57
+Cumings Mr John Bradley,1st,39,male,0,58
+Cumings Mrs John Bradley (Florence Briggs Thayer),1st,38,female,1,59
+Daniel Mr Robert Williams,1st,27,male,1,60
+Davidson Mr Thornton,1st,31,male,0,61
+Davidson Mrs Thornton (Orian Hays),1st,27,female,1,62
+Dick Mr Albert Adrian,1st,31,male,1,63
+Dick Mrs Albert Adrian Vera Gillespie,1st,17,female,1,64
+Dodge Master Washington,1st,4,male,1,65
+Douglas Mrs Frederick Charles (Suzette Baxter),1st,27,female,1,66
+Douglas Mr Walter Donald,1st,50,male,0,67
+Douglas Mrs Walter Donald (Mahala Dutton),1st,48,female,1,68
+Duff Gordon Sir Cosmo Edmund,1st,49,male,1,69
+Duff Gordon Lady (Lucille Wallace Sutherland),1st,48,female,1,70
+Dulles Mr William Crothers,1st,39,male,0,71
+Earnshaw Mrs Boulton (Olive Potter),1st,23,female,1,72
+Eustis Miss Elizabeth Mussey,1st,53,female,1,73
+Evans Miss Edith Corse,1st,36,female,0,74
+Foreman Mr Benjamin Laventall,1st,30,male,0,75
+Fortune Miss Alice Elizabeth,1st,24,female,1,76
+Fortune Mr Charles Alexander,1st,19,male,0,77
+Fortune Miss Ethel Flora,1st,28,female,1,78
+Fortune Miss Mabel,1st,23,female,1,79
+Fortune Mr Mark,1st,64,male,0,80
+Fortune Mrs Mark (Mary McDougald),1st,60,female,1,81
+Frauenthal Dr Henry William,1st,49,male,1,82
+Frauenthal Mr Isaac Gerald,1st,44,male,1,83
+Frolicher Miss Marguerite,1st,22,female,1,84
+Frolicher-Stehli Mr Maxmillian,1st,60,male,1,85
+Frolicher-Stehli Mrs Maxmillian (Margaretha Emerentia Stehli),1st,48,female,1,86
+Futrelle Mr Jacques,1st,37,male,0,87
+Futrelle Mrs Jacques (May Peel),1st,35,female,1,88
+Gee Mr Arthur H,1st,47,male,0,89
+Gibson Miss Dorothy,1st,22,female,1,90
+Gibson Mrs Leonard (Pauline C Boeson),1st,45,female,1,91
+Goldenberg Mr Samuel L,1st,49,male,1,92
+Goldschmidt Mr George B,1st,71,male,0,93
+Gracie Colonel Archibald IV,1st,54,male,1,94
+Graham Mr George Edward,1st,38,male,0,95
+Graham Miss Margaret Edith,1st,19,female,1,96
+Graham Mrs William Thompson (Edith Junkins),1st,58,female,1,97
+Greenfield Mrs Leo David (Blanche Strouse),1st,45,female,1,98
+Greenfield Mr William Bertram,1st,23,male,1,99
+Guggenheim Mr Benjamin,1st,46,male,0,100
+Harder Mr George Achilles,1st,25,male,1,101
+Harder Mrs George Achilles (Dorothy Annan),1st,21,female,1,102
+Harper Mr Henry Sleeper,1st,48,male,1,103
+Harper Mrs Henry Sleeper (Myna Haxtun),1st,49,female,1,104
+Harris Mr Henry Birkhardt,1st,45,male,0,105
+Harris Mrs Henry Birkhardt (Irene Wallach),1st,36,female,1,106
+Hays Mr Charles Melville,1st,55,male,0,107
+Hays Mrs Charles Melville (Clara Jennings Gregg),1st,52,female,1,108
+Hays Miss Margaret Bechstein,1st,24,female,1,109
+Hippach Miss Jean Gertrude,1st,16,female,1,110
+Hippach Mrs Louis Albert (Ida Sophia Fischer),1st,44,female,1,111
+Hogeboom Mrs John C (Anna Andrews),1st,51,female,1,112
+Holverson Mr Alexander Oskar,1st,42,male,0,113
+Holverson Mrs Alexander Oskar (Mary Aline Towner),1st,35,female,1,114
+Homer Mr Harry,1st,35,male,1,115
+Hoyt Mr Frederick Maxfield,1st,38,male,1,116
+Hoyt Mrs Frederick Maxfield (Jane Anne Forby),1st,35,female,1,117
+Isham Miss Anne Elizabeth,1st,50,female,0,118
+Ismay Mr Joseph Bruce,1st,49,male,1,119
+Jones Mr Charles Cresson,1st,46,male,0,120
+Kent Mr Edward Austin,1st,58,male,0,121
+Kenyon Mr Frederick R,1st,41,male,0,122
+Kimball Mr Edwin Nelson Jr,1st,42,male,1,123
+Kimball Mrs Edwin Nelson Jr (Gertrude Parsons),1st,40,female,1,124
+Lindeberg-Lind Mr Erik Gustaf,1st,42,male,0,125
+Lindstrom Mrs Carl Johan (Sigrid Posse),1st,55,female,1,126
+Lines Mrs Ernest H (Elizabeth Lindsey James),1st,50,female,1,127
+Lines Miss Mary Conover,1st,16,female,1,128
+Long Mr Milton Clyde,1st,29,male,0,129
+Longley Miss Gretchen Fiske,1st,21,female,1,130
+Loring Mr Joseph Holland,1st,30,male,0,131
+Madill Miss Georgette Alexandra,1st,15,female,1,132
+Maguire Mr John Edward,1st,30,male,0,133
+McCaffry Mr Thomas Francis,1st,46,male,0,134
+McCarthy Mr Timothy J,1st,54,male,0,135
+McGough Mr James R,1st,36,male,1,136
+Meyer Mr Edgar Joseph,1st,28,male,0,137
+Millet Mr Francis Davis,1st,65,male,0,138
+Minahan Miss Daisy E,1st,33,female,1,139
+Minahan Dr William Edward,1st,44,male,0,140
+Minahan Mrs William Edward (Lillian E Thorpe),1st,37,female,1,141
+Molson Mr Harry Markland,1st,55,male,0,142
+Moore Mr Clarence Bloomfield,1st,47,male,0,143
+Natsch Mr Charles H,1st,36,male,0,144
+Newell Mr Arthur Webster,1st,58,male,0,145
+Newell Miss Madeleine,1st,31,female,1,146
+Newell Miss Marjorie,1st,23,female,1,147
+Newsom Miss Helen Monypeny,1st,19,female,1,148
+Nicholson Mr Arthur Ernest,1st,64,male,0,149
+Ostby Mr Engelhart Cornelius,1st,64,male,0,150
+Ostby Miss Helen Raghnild,1st,22,female,1,151
+Ovies y Rodriguez Mr Servando,1st,28,male,0,152
+Payne Mr Vivian Ponsonby,1st,22,male,0,153
+Penasco Mr Victor de Satode,1st,18,male,0,154
+Penasco Mrs Victor de Satode (Josefa de Soto),1st,17,female,1,155
+Peuchen Major Arthur Godfrey,1st,52,male,1,156
+Porter Mr Walter Chamberlain,1st,46,male,0,157
+Potter Mrs Thomas Jr (Lily Alexenia Wilson),1st,56,female,1,158
+Robert Mrs Edward Scott (Elisabeth Walton McMillan),1st,43,female,1,159
+Roebling Mr Washington Augustus 2nd,1st,31,male,0,160
+Rosenbaum (Russell) Miss Edith Louise,1st,33,female,1,161
+Rothes the Countess of (Noel Lucy Martha Dyer-Edwardes),1st,27,female,1,162
+Rothschild Mr Martin,1st,55,male,0,163
+Rothschild Mrs Martin (Elizabeth L Barrett),1st,54,female,1,164
+Ryerson Mr Arthur Larned,1st,61,male,0,165
+Ryerson Mrs Arthur Larned (Emily Maria Borie),1st,48,female,1,166
+Ryerson Miss Emily Borie,1st,18,female,1,167
+Ryerson Master John Borie,1st,13,male,1,168
+Ryerson Miss Susan (Suzette) Parker,1st,21,female,1,169
+Seward Mr Frederic Kimber,1st,34,male,1,170
+Shutes Miss Elizabeth W,1st,40,female,1,171
+Silverthorne Mr Spencer Victor,1st,36,male,1,172
+Silvey Mr William Baird,1st,50,male,0,173
+Silvey Mrs William Baird (Alice Munger),1st,39,female,1,174
+Simonius-Blumer Col Alfons,1st,56,male,1,175
+Sloper Mr William Thompson,1st,28,male,1,176
+Smart Mr John Montgomery,1st,56,male,0,177
+Smith Mr James Clinch,1st,56,male,0,178
+Smith Mr Lucien Philip,1st,24,male,0,179
+Smith Mrs Lucien Philip (Mary Eloise Hughes,1st,18,female,1,180
+Snyder Mr John Pillsbury,1st,24,male,1,181
+Snyder Mrs John Pillsbury (Nelle Stevenson),1st,23,female,1,182
+Spedden Mr Frederick Oakley,1st,45,male,1,183
+Spedden Mrs Frederick Oakley (Margaretta Corning Stone),1st,40,female,1,184
+Spedden Master Robert Douglas,1st,6,male,1,185
+Spencer Mr William Augustus,1st,57,male,0,186
+Staehlin Dr Max,1st,32,male,1,187
+Stead Mr William Thomas,1st,62,male,0,188
+Stengel Mr Charles Emil Henry,1st,54,male,1,189
+Stengel Mrs Charles Emil Henry (Annie May Morris),1st,43,female,1,190
+Stephenson Mrs Walter Bertram (Martha Eustis),1st,52,female,1,191
+Stone Mrs George Nelson (Martha E),1st,62,female,1,192
+Straus Mr Isidor,1st,67,male,0,193
+Straus Mrs Isidor (Ida Blun),1st,63,female,0,194
+Sutton Mr Frederick,1st,61,male,0,195
+Swift Mrs Frederick Joel (Margaret Welles Barron),1st,46,female,1,196
+Taussig Mr Emil,1st,52,male,0,197
+Taussig Mrs Emil (Tillie Mandelbaum),1st,39,female,1,198
+Taussig Miss Ruth,1st,18,female,1,199
+Taylor Mr Elmer Zebley,1st,48,male,1,200
+Thayer Mr John Borland,1st,49,male,0,201
+Thayer Mrs John Borland (Marian Longstreth Morris),1st,39,female,1,202
+Thayer Mr John Borland jr,1st,17,male,1,203
+Thorne Mr George (alias of: Mr George Rosenshine),1st,46,male,0,204
+Tucker Mr Gilbert Milligan jr,1st,31,male,1,205
+Van Derhoef Mr Wyckoff,1st,61,male,0,206
+Walker Mr William Anderson,1st,47,male,0,207
+Warren Mr Frank Manley,1st,64,male,0,208
+Warren Mrs Frank Manley (Anna S Atkinson),1st,60,female,1,209
+Weir Col John,1st,60,male,0,210
+White Mrs J Stuart (Ella Holmes),1st,55,female,1,211
+White Mr Percival Wayland,1st,54,male,0,212
+White Mr Richard Frasar,1st,21,male,0,213
+Wick Mr George Dennick,1st,57,male,0,214
+Wick Mrs George Dennick (Martha Hitchcock),1st,45,female,1,215
+Wick Miss Mary Natalie,1st,31,female,1,216
+Widener Mr George Dunton,1st,50,male,0,217
+Widener Mrs George Dunton (Eleanor Elkins),1st,50,female,1,218
+Widener Mr Harry Elkins,1st,27,male,0,219
+Willard Miss Constance,1st,20,female,1,220
+Williams Mr Charles Duane,1st,51,male,0,221
+Williams Mr Richard Norris II,1st,21,male,1,222
+Young Miss Marie Grice,1st,36,female,1,223
+Harrison Mr William   Henry,1st,40,male,0,224
+Keeping Mr Edwin,1st,32,male,0,225
+Ringhini Mr Sante,1st,33,male,0,226
+Abelson Mr Samuel,2nd,30,male,0,227
+Abelson Mrs Samuel (Anna),2nd,28,female,1,228
+Andrew Mr Edgar Samuel,2nd,18,male,0,229
+Angle Mr William A,2nd,34,male,0,230
+Angle Mrs William A (Florence),2nd,32,female,1,231
+Ashby Mr John,2nd,57,male,0,232
+Bailey Mr Percy Andrew,2nd,18,male,0,233
+Baimbrigge Mr Charles R,2nd,23,male,0,234
+Balls Mrs Ada E Hall,2nd,36,female,1,235
+Banfield Mr Frederick J,2nd,28,male,0,236
+Bateman Rev Robert James,2nd,51,male,0,237
+Beane Mr Edward,2nd,32,male,1,238
+Beane Mrs Edward (Ethel Clarke),2nd,19,female,1,239
+Beauchamp Mr Henry James,2nd,28,male,0,240
+Becker Mrs Allen Oliver (Nellie E Baumgardner),2nd,36,female,1,241
+Becker Miss Marion Louise,2nd,4,female,1,242
+Becker Master Richard F,2nd,1,male,1,243
+Becker Miss Ruth Elizabeth,2nd,12,female,1,244
+Beesley Mr Lawrence,2nd,34,male,1,245
+Bentham Miss Lilian W,2nd,19,female,1,246
+Berriman Mr William S,2nd,23,male,0,247
+Botsford Mr William Hull,2nd,26,male,0,248
+Bracken Mr James H,2nd,27,male,0,249
+Brown Miss Edith E,2nd,15,female,1,250
+Brown Mr Thomas William Solomon,2nd,45,male,0,251
+Brown Mrs Thomas William Solomon (Elizabeth C),2nd,40,female,1,252
+Bryhl Miss Dagmar,2nd,20,female,1,253
+Bryhl Mr Kurt Arnold Gottfrid,2nd,25,male,0,254
+Buss Miss Kate,2nd,36,female,1,255
+Butler Mr Reginald Fenton,2nd,25,male,0,256
+Bystrom Mrs Carolina,2nd,42,female,1,257
+Caldwell Mr Albert Francis,2nd,26,male,1,258
+Caldwell Mrs Albert Francis (Sylvia Mae Harbaugh),2nd,26,female,1,259
+Caldwell Master Alden Gates,2nd,0.83,male,1,260
+Cameron Miss Clear,2nd,31,female,1,261
+Carbines Mr William,2nd,19,male,0,262
+Carter Rev Ernest Courtenay,2nd,54,male,0,263
+Carter Mrs Ernest Courtenay (Lillian Hughes),2nd,44,female,0,264
+Chapman Mr Charles Henry,2nd,52,male,0,265
+Chapman Mr John Henry,2nd,30,male,0,266
+Chapman Mrs John Henry (Elizabeth Lawry),2nd,30,female,0,267
+Clarke Mr Charles V,2nd,29,male,0,268
+Coleridge Mr Reginald Charles,2nd,29,male,0,269
+Collander Mr Erik,2nd,27,male,0,270
+Collett Mr Sidney C Stuart,2nd,24,male,1,271
+Collyer Mr Harvey,2nd,35,male,0,272
+Collyer Mrs Harvey (Charlotte Tate),2nd,31,female,1,273
+Collyer Miss Marjorie,2nd,8,female,1,274
+Cook Mrs Selena Rogers,2nd,22,female,0,275
+Corbett Mrs Walter H (Irene Colvin),2nd,30,female,0,276
+Cotterill Mr Harry,2nd,20,male,0,277
+Davies Mr Charles Henry,2nd,21,male,0,278
+Davis Mrs Agnes,2nd,49,female,1,279
+Davis Master John Morgan,2nd,8,male,1,280
+Davis Miss Mary,2nd,28,female,1,281
+Deacon Mr Percy,2nd,18,male,0,282
+del Carlo Mr Sebastiano,2nd,28,male,0,283
+del Carlo Mrs Sebastiano (Argenia Genovese),2nd,22,female,1,284
+Denbury Mr Herbert,2nd,25,male,0,285
+Dibden Mr William,2nd,18,male,0,286
+Doling Mrs Ada,2nd,32,female,1,287
+Doling Miss Elsie,2nd,18,female,1,288
+Drew Mr James Vivian,2nd,42,male,0,289
+Drew Mrs James Vivian (Lulu Thorne Christian),2nd,34,female,1,290
+Drew Master Marshall Brines,2nd,8,male,1,291
+Eitemiller Mr George Floyd,2nd,23,male,0,292
+Enander Mr Ingvar,2nd,21,male,0,293
+Fahlstrom Mr Arne Jonas,2nd,19,male,0,294
+Fox Mr Stanley H,2nd,38,male,0,295
+Funk Miss Annie C,2nd,38,female,0,296
+Fynney Mr Joseph J,2nd,35,male,0,297
+Gale Mr Harry,2nd,35,male,0,298
+Gale Mr Shadrach,2nd,38,male,0,299
+Garside Miss Ethel,2nd,24,female,1,300
+Gaskell Mr Alfred,2nd,16,male,0,301
+Gavey Mr Lawrence,2nd,26,male,0,302
+Gilbert Mr William,2nd,45,male,0,303
+Giles Mr Edgar,2nd,24,male,0,304
+Giles Mr Frederick,2nd,21,male,0,305
+Giles Mr Ralph,2nd,22,male,0,306
+Gillespie Mr William,2nd,34,male,0,307
+Givard Mr Hans Christensen,2nd,30,male,0,308
+Greenberg Mr Samuel,2nd,50,male,0,309
+Hale Mr Reginald,2nd,30,male,0,310
+Hamalainen Mrs William (Anna),2nd,23,female,1,311
+Hamalainen Master Viljo,2nd,1,male,1,312
+Harbeck Mr William H,2nd,44,male,0,313
+Harper Rev John,2nd,28,male,0,314
+Harper Miss Nina,2nd,6,female,1,315
+Harris Mr George,2nd,30,male,1,316
+Hart Mr Benjamin,2nd,43,male,0,317
+Hart Mrs Benjamin (Esther),2nd,45,female,1,318
+Hart Miss Eva Miriam,2nd,7,female,1,319
+Herman Miss Alice,2nd,24,female,1,320
+Herman Miss Kate,2nd,24,female,1,321
+Herman Mr Samuel,2nd,49,male,0,322
+Herman Mrs Samuel (Jane Laver),2nd,48,female,1,323
+Hickman Mr Leonard Mark,2nd,34,male,0,324
+Hickman Mr Lewis,2nd,32,male,0,325
+Hickman Mr Stanley George,2nd,21,male,0,326
+Hiltunen Miss Marta,2nd,18,female,0,327
+Hocking Mrs Elizabeth,2nd,53,female,1,328
+Hocking Mr George,2nd,23,male,0,329
+Hocking Miss Ellen (Nellie),2nd,21,female,1,330
+Hodges Mr Henry Price,2nd,52,male,0,331
+Hold Mr Stephen,2nd,42,male,0,332
+Hold Mrs Stephen (Annie Margaret),2nd,36,female,1,333
+Hood Mr Ambrose Jr,2nd,21,male,0,334
+Hosono Mr Masafumi,2nd,41,male,1,335
+Hunt Mr George Henry,2nd,33,male,0,336
+Ilett Miss Bertha,2nd,17,female,1,337
+Jerwan Mrs Amin S (Marie Thuillard),2nd,23,female,1,338
+Kantor Mr Sinai,2nd,34,male,0,339
+Karnes Mrs J Frank (Claire Bennett),2nd,22,female,0,340
+Kelly Mrs Florence (Fannie),2nd,45,female,1,341
+Kvillner Mr Johan Henrik Johannesson,2nd,31,male,0,342
+Lahtinen Rev William,2nd,30,male,0,343
+Lahtinen Mrs William (Anna Sylvan),2nd,26,female,0,344
+Lemore Mrs Amelia,2nd,34,female,1,345
+LaRoche Mr Joseph,2nd,26,male,0,346
+LaRoche Mrs Joseph (Juliet),2nd,22,female,1,347
+LaRoche Miss Louise,2nd,1,female,1,348
+LaRoche Miss Simonne,2nd,3,female,1,349
+Leyson Mr Robert William Norman,2nd,25,male,0,350
+Louch Mr Charles Alexander,2nd,48,male,0,351
+Mack Mrs Mary,2nd,57,female,0,352
+Mallet Master Andre,2nd,2,male,1,353
+Mantvila Rev Joseph,2nd,27,male,0,354
+Marshall Mrs Kate Louise Phillips,2nd,19,female,1,355
+Matthews Mr William John,2nd,30,male,0,356
+Maybery Mr Frank H,2nd,20,male,0,357
+McCrae Mr Arthur Gordon,2nd,45,male,0,358
+McKane Mr Peter D,2nd,46,male,0,359
+Mellenger Mrs Elizabeth Anne,2nd,41,female,1,360
+Mellenger Miss Madeleine Violet,2nd,13,female,1,361
+Mellor Mr William John,2nd,19,male,1,362
+Meyer Mr August,2nd,30,male,0,363
+Milling Mr Jacob Christian,2nd,48,male,0,364
+Mitchell Mr Henry Michael,2nd,71,male,0,365
+Moraweck Dr Ernest,2nd,54,male,0,366
+Myles Mr Thomas Francis,2nd,64,male,0,367
+Nasser (Nasrallah) Mr Nicholas,2nd,32,male,0,368
+Nasser (Nasrallah) Mrs Nicholas,2nd,18,female,1,369
+Navratil Master Edmond Roger,2nd,2,male,1,370
+Navratil Mr Michel,2nd,32,male,0,371
+Navratil Master Michel M,2nd,3,male,1,372
+Nesson Mr Israel,2nd,26,male,0,373
+Nicholls Mr Joseph Charles,2nd,19,male,0,374
+Nourney Mr Alfred (aka Baron von Drachstedt),2nd,20,male,1,375
+Nye Mrs Elizabeth Ramell,2nd,29,female,1,376
+Otter Mr Richard,2nd,39,male,0,377
+Oxenham Mr Percy Thomas,2nd,22,male,1,378
+Pain Dr Alfred,2nd,24,male,0,379
+Parker Mr Clifford R,2nd,28,male,0,380
+Parrish Mrs Lutie Davis,2nd,50,female,1,381
+Pengelly Mr Frederick,2nd,20,male,0,382
+Peruschitz Rev Joseph M,2nd,40,male,0,383
+Phillips Miss Alice,2nd,42,female,1,384
+Phillips Mr Robert,2nd,21,male,0,385
+Pinsky Miss Rosa,2nd,32,female,1,386
+Ponesell Mr Martin,2nd,34,male,0,387
+Quick Mrs Frederick C (Jane Richards),2nd,33,female,1,388
+Quick Miss Phyllis May,2nd,2,female,1,389
+Quick Miss Winifred Vera,2nd,8,female,1,390
+Reeves Mr David,2nd,36,male,0,391
+Renouf Mr Peter Henry,2nd,34,male,0,392
+Renouf Mrs Peter Henry (Lillian Jefferys),2nd,30,female,1,393
+Reynaldo Mrs Encarnacion,2nd,28,female,1,394
+Richard Mr Emil,2nd,23,male,0,395
+Richards Master George Sidney,2nd,0.8,male,1,396
+Richards Mrs Sidney (Emily Hocking),2nd,25,female,1,397
+Richards Master William Rowe,2nd,3,male,1,398
+Ridsdale Miss Lucy,2nd,50,female,1,399
+Rugg Miss Emily,2nd,21,female,1,400
+Shelley Mrs William (Imanita),2nd,25,female,1,401
+Silven Miss Lyyli,2nd,18,female,1,402
+Sincock Miss Maude,2nd,20,female,1,403
+Siukonnen Miss Anna,2nd,30,female,1,404
+Sjostedt Mr Ernst Adolf,2nd,59,male,0,405
+Slayter Miss Hilda Mary,2nd,30,female,1,406
+Slemen Mr Richard James,2nd,35,male,0,407
+Smith (Schmidt) Mr Augustus,2nd,22,male,0,408
+Sobey Mr Hayden,2nd,25,male,0,409
+Stanton Mr Samuel Ward,2nd,41,male,0,410
+Stokes Mr Philip Joseph,2nd,25,male,0,411
+Sweet Mr George,2nd,14,male,0,412
+Toomey Miss Ellen,2nd,50,female,1,413
+Troupiansky Mr Moses Aaron,2nd,22,male,0,414
+Troutt Miss Edwina Celia,2nd,27,female,1,415
+Turpin Mr William John,2nd,29,male,0,416
+Turpin Mrs William John (Dorothy Anne Wonnacott),2nd,27,female,0,417
+Veale Mr James,2nd,30,male,0,418
+Waelens Mr Achille,2nd,22,male,0,419
+Walcroft Miss Nellie,2nd,35,female,1,420
+Ware Mr John James,2nd,30,male,0,421
+Ware Mrs John James (Florence Louise Long),2nd,28,female,1,422
+Ware Mr William J,2nd,23,male,0,423
+Watt Miss Bertha,2nd,12,female,1,424
+Watt Mrs James (Bessie Inglis Milne),2nd,40,female,1,425
+Webber Miss Susan,2nd,36,female,1,426
+Weisz Mr Leopold,2nd,28,male,0,427
+Weisz Mrs Leopold (Mathilde),2nd,32,female,1,428
+Wells Mrs Arthur H (Addie Trevaskis),2nd,29,female,1,429
+Wells Miss Joan,2nd,4,female,1,430
+Wells Master Ralph Lester,2nd,2,male,1,431
+West Mr Edwy Arthur,2nd,36,male,0,432
+West Mrs Edwy Arthur (Ada Mary),2nd,33,female,1,433
+Wilhelms Mr Charles,2nd,32,male,1,434
+Wright Miss Marion,2nd,26,female,1,435
+Aldworth Mr Charles Augustus,2nd,30,male,0,436
+Brown Miss Mildred,2nd,24,female,1,437
+Swane Mr George,2nd,18,male,0,438
+Abbing Mr Anthony,3rd,42,male,0,439
+Abbott Master Eugene Joseph,3rd,13,male,0,440
+Abbott Mr Rossmore Edward,3rd,16,male,0,441
+Abbott Mrs Stanton (Rosa),3rd,35,female,1,442
+Abelseth Miss Anna Karen,3rd,16,female,1,443
+Abelseth Mr Olaus,3rd,25,male,1,444
+Abraham Mrs Joseph (Sophie Easu),3rd,18,female,1,445
+Abrahamsson Mr August,3rd,20,male,1,446
+Adahl Mr Mauritz Nils Martin,3rd,30,male,0,447
+Adams Mr John,3rd,26,male,0,448
+Ahlin Mrs Johanna Persdotter,3rd,40,female,0,449
+Ahmed Mr Ali,3rd,24,male,0,450
+Aijo-Nirva Mr Isak,3rd,41,male,0,451
+Aks Mrs Sam (Leah Rosen),3rd,18,female,1,452
+Aks Master Philip,3rd,0.83,male,1,453
+Alexander Mr William,3rd,23,male,0,454
+Alhomaki Mr Ilmari Rudolf,3rd,20,male,0,455
+Ali Mr William,3rd,25,male,0,456
+Allen Mr William Henry,3rd,35,male,0,457
+Allum Mr Owen George,3rd,17,male,0,458
+Andersen Mr Albert Karvin,3rd,32,male,0,459
+Andersen Mr Thor Olsvigen,3rd,20,male,0,460
+Andersson Mr Anders Johan,3rd,39,male,0,461
+Andersson Mrs Anders Johan (Alfrida K Brogren),3rd,39,female,0,462
+Andersson Miss Ebba Iris,3rd,6,female,0,463
+Andersson Miss Ellis Anna Maria,3rd,2,female,0,464
+Andersson Miss Erna,3rd,17,female,1,465
+Andersson Miss Ida Augusta Margareta,3rd,38,female,0,466
+Andersson Miss Ingeborg Constancia,3rd,9,female,0,467
+Andersson Mr Johan Samuel,3rd,26,male,0,468
+Andersson Miss Sigrid Elizabeth,3rd,11,female,0,469
+Andersson Master Sigvard Harald Elias,3rd,4,male,0,470
+Andreasson Mr Paul Edvin,3rd,20,male,0,471
+Angheloff Mr Minko,3rd,26,male,0,472
+Arnold Mr Josef,3rd,25,male,0,473
+Arnold Mrs Josef (Josephine Frank),3rd,18,female,0,474
+Aronsson Mr Ernst Axel Algot,3rd,24,male,0,475
+Asim Mr Adola,3rd,35,male,0,476
+Asplund Mr Carl Oscar Vilhelm Gustafsson,3rd,40,male,0,477
+Asplund Mrs Carl Oscar (Selma Augusta Johansson),3rd,38,female,1,478
+Asplund Master Carl Edgar,3rd,5,male,0,479
+Asplund Master Clarence Gustaf Hugo,3rd,9,male,0,480
+Aspland Master Edvin Rojj Felix,3rd,3,male,1,481
+Asplund Master Filip Oscar,3rd,13,male,0,482
+Asplund Mr John Charles,3rd,23,male,1,483
+Asplund Miss Lillian Gertrud,3rd,5,female,1,484
+Assaf Mrs Mariana,3rd,45,female,1,485
+Assam Mr Ali,3rd,23,male,0,486
+Attalah Miss Malaka,3rd,17,female,0,487
+Attala (Kalil) Mr Solomon,3rd,27,male,0,488
+Augustsson Mr Albert,3rd,23,male,0,489
+Baccos Mr Rafoul,3rd,20,male,0,490
+Backstrom Mr Karl Alfred,3rd,32,male,0,491
+Backstrom Mrs Karl Alfred (Maria Mathilda Gustafsson),3rd,33,female,1,492
+Baclini Miss Eugenie,3rd,3,female,1,493
+Badman Miss Emily Louisa,3rd,18,female,1,494
+Badt Mr Mohamed,3rd,40,male,0,495
+Balkic Mr Cerin,3rd,26,male,0,496
+Banoura Miss Ayout,3rd,15,female,1,497
+Barbara Mrs Catherine,3rd,45,female,0,498
+Barbara Miss Saude,3rd,18,female,0,499
+Barry Miss Julia,3rd,27,female,0,500
+Barton Mr David,3rd,22,male,0,501
+Beavan Mr William Thomas,3rd,19,male,0,502
+Bengtsson Mr John Viktor,3rd,26,male,0,503
+Berglund Mr Karl Ivar Sven,3rd,22,male,0,504
+Betros Mr Tannous,3rd,20,male,0,505
+Bing Mr Lee,3rd,32,male,1,506
+Birkeland Mr Hans,3rd,21,male,0,507
+Bjorklund Ernst Herbert,3rd,18,male,0,508
+Bostandyeff Mr Guentcho,3rd,26,male,0,509
+Boulos Master Akar,3rd,6,male,0,510
+Boulos Miss Laura,3rd,9,female,0,511
+Bourke Mr John,3rd,40,male,0,512
+Bourke Mrs John (Catherine),3rd,32,female,0,513
+Bowen Mr David,3rd,26,male,0,514
+Bradley Miss Bridget Delia,3rd,18,female,1,515
+Braf Miss Elin Ester Maria,3rd,20,female,0,516
+Braund Mr Lewis Richard,3rd,29,male,0,517
+Braund Mr Owen Harris,3rd,22,male,0,518
+Brobek Mr Karl Rudolf,3rd,22,male,0,519
+Brocklebank Mr William Alfred,3rd,35,male,0,520
+Buckley Mr Daniel,3rd,21,male,1,521
+Buckley Miss Katherine,3rd,20,female,0,522
+Burke Mr Jeremiah,3rd,19,male,0,523
+Burns Miss Mary Delia,3rd,18,female,0,524
+Cacic Mr Grego,3rd,18,male,0,525
+Cacic Mr Luka,3rd,38,male,0,526
+Cacic Mr Maria,3rd,30,male,0,527
+Calic Mr Peter,3rd,17,male,0,528
+Canavan Miss Mary,3rd,21,female,0,529
+Canavan Mr Patrick,3rd,21,male,0,530
+Cann Mr Ernest,3rd,21,male,0,531
+Carlsson Mr Carl Robert,3rd,24,male,0,532
+Carlsson Mr Frans Olof,3rd,33,male,0,533
+Carlsson Mr Julius,3rd,33,male,0,534
+Carlsson Mr August Sigfrid,3rd,28,male,0,535
+Carr Miss Helen,3rd,16,female,1,536
+Carr Miss Jeannie,3rd,37,female,0,537
+Carver Mr Alfred John,3rd,28,male,0,538
+Celotti Mr Francesco,3rd,24,male,0,539
+Chartens Mr David,3rd,21,male,0,540
+Chip Mr Chang,3rd,32,male,0,541
+Christmann Mr Emil,3rd,29,male,0,542
+Chronopoulos Mr Apostolos,3rd,26,male,0,543
+Chronopoulos Mr Demetrios,3rd,18,male,0,544
+Coelho Mr Domingos Fernandes,3rd,20,male,0,545
+Cohen Mr Gurshon (Gus),3rd,19,male,1,546
+Colbert Mr Patrick,3rd,24,male,0,547
+Coleff Mr Fotio,3rd,24,male,0,548
+Coleff Mr Peyo,3rd,36,male,0,549
+Conlin Mr Thomas Henry,3rd,31,male,0,550
+Connaghton Mr Michael,3rd,31,male,0,551
+Connolly Miss Kate,3rd,30,female,0,552
+Connolly Miss Kate,3rd,22,female,1,553
+Cook Mr Jacob,3rd,43,male,0,554
+Cor Mr Bartol,3rd,35,male,0,555
+Cor Mr Ivan,3rd,27,male,0,556
+Cor Mr Ludovik,3rd,19,male,0,557
+Corn Mr Harry,3rd,30,male,0,558
+Coutts Mrs William (Minnie),3rd,36,female,1,559
+Coutts Master Neville,3rd,3,male,1,560
+Coutts Master William Leslie,3rd,9,male,1,561
+Coxon Mr Daniel,3rd,59,male,0,562
+Crease Mr Ernest James,3rd,19,male,0,563
+Cribb Mr John Hatfield,3rd,44,male,0,564
+Cribb Miss Laura Alice,3rd,17,female,1,565
+Dahl Mr Charles Edward,3rd,45,male,1,566
+Dahlberg Miss Gerda Ulrika,3rd,22,female,0,567
+Dakic Mr Branko,3rd,19,male,0,568
+Daly Mr Eugene,3rd,29,male,1,569
+Daly Miss Marcella,3rd,30,female,1,570
+Danbom Mr Ernst Gilbert,3rd,34,male,0,571
+Danbom Mrs Ernst Gilbert (Anna Sigrid Maria Brogren),3rd,28,female,0,572
+Danbom Master Gilbert Sigvard Emanuel,3rd,0.33,male,0,573
+Danoff Mr Yoto,3rd,27,male,0,574
+Dantchoff Mr Khristo,3rd,25,male,0,575
+Davies Mr Alfred,3rd,24,male,0,576
+Davies Mr Evan,3rd,22,male,0,577
+Davies Mr John,3rd,21,male,0,578
+Davies Mr Joseph,3rd,17,male,0,579
+Dean Mr Bertram,3rd,26,male,0,580
+Dean Mrs Bertram (Eva),3rd,33,female,1,581
+Dean Master Bertram Vere,3rd,1,male,1,582
+Dean Miss Elizabeth Gladys (Millvena),3rd,0.17,female,1,583
+Delalic Mr Regyo,3rd,25,male,0,584
+De Messemaeker Mr William Joseph,3rd,36,male,1,585
+De Messemaeker Mrs William Joseph (Anna),3rd,36,female,1,586
+De Mulder Mr Theo,3rd,30,male,1,587
+Dennis Mr Samuel,3rd,23,male,0,588
+Dennis Mr William,3rd,26,male,0,589
+Devaney Miss Margaret,3rd,19,female,1,590
+Dewan Mr Frank,3rd,65,male,0,591
+Dimic Mr Jovan,3rd,42,male,0,592
+Dintcheff Mr Valtcho,3rd,43,male,0,593
+Dooley Mr Patrick,3rd,32,male,0,594
+Dorkings Mr Edward Arthur,3rd,19,male,1,595
+Dowdell Miss Elizabeth,3rd,30,female,1,596
+Doyle Miss Elizabeth,3rd,24,female,0,597
+Drapkin Miss Jennie,3rd,23,female,1,598
+Driscoll Miss Bridget,3rd,24,female,1,599
+Duquemin Mr Joseph,3rd,24,male,1,600
+Dyker Mr Adolf Fredrik,3rd,23,male,0,601
+Dyker Mrs Adolf Fredrik (Anna Elizabeth Judith Andersson),3rd,22,female,1,602
+Edvardsson Mr Gustaf Hjalmar,3rd,18,male,0,603
+Eklund Mr Hans Linus,3rd,16,male,0,604
+Ekstrom Mr Johan,3rd,45,male,0,605
+Elsbury Mr James,3rd,47,male,0,606
+Emanuel Miss Virginia Ethel,3rd,5,female,1,607
+Ford Miss Doolina Margaret,3rd,21,female,0,608
+Ford Mr Edward Watson,3rd,18,male,0,609
+Ford Miss Maggie,3rd,9,female,0,610
+Ford Mrs Edward (Margaret Ann),3rd,48,female,0,611
+Ford Mr Neil Watson,3rd,16,male,0,612
+Gallagher Mr Martin,3rd,25,male,0,613
+Georges Mrs Shahini Weappi,3rd,38,female,1,614
+Gilinski Mr Leslie,3rd,22,male,0,615
+Gilnagh Miss Katie,3rd,16,female,1,616
+Goldsmith Mr Frank John,3rd,33,male,0,617
+Goldsmith Master Frank John William,3rd,9,male,1,618
+Goldsmith Mr Nathan,3rd,41,male,0,619
+Goncalves Mr Manuel Estanslas,3rd,38,male,0,620
+Goodwin Mr Frederick,3rd,40,male,0,621
+Goodwin Mrs Frederick (Augusta),3rd,43,female,0,622
+Goodwin Mr Charles E,3rd,14,male,0,623
+Goodwin Miss Lillian A,3rd,16,female,0,624
+Goodwin Master Harold V,3rd,9,male,0,625
+Goodwin Miss Jessie A,3rd,10,female,0,626
+Goodwin Master Sidney L,3rd,6,male,0,627
+Goodwin Master William F,3rd,11,male,0,628
+Green Mr George,3rd,40,male,0,629
+Gronnestad Mr Daniel Danielsen,3rd,32,male,0,630
+Gustafsson Mr Alfred Ossian,3rd,20,male,0,631
+Gustafsson Mr Anders Vilhelm,3rd,37,male,0,632
+Gustafsson Mr Johan Birger,3rd,28,male,0,633
+Gustafsson Mr Karl Gideon,3rd,19,male,0,634
+Haas Miss Aloisia,3rd,24,female,0,635
+Hagardon Miss Kate,3rd,17,female,0,636
+Hakkarainen Mr Pekko Pietari,3rd,28,male,0,637
+Hakkarainen Mrs Pekko Pietari,3rd,24,female,1,638
+Hampe Mr Leon,3rd,20,male,0,639
+Hansen Mr Claus Peter,3rd,41,male,0,640
+Hansen Mrs Claus Peter,3rd,45,female,1,641
+Hansen Mr Henrik Juul,3rd,26,male,0,642
+Hansen Mr Henry Damsgaard,3rd,21,male,0,643
+Hedman Mr Oscar,3rd,27,male,1,644
+Hegarty Miss Nora,3rd,18,female,0,645
+Heikkinen Miss Laina,3rd,26,female,1,646
+Heininen Miss Wendla Maria,3rd,23,female,0,647
+Hellstrom Hilda Maria,3rd,22,female,1,648
+Henriksson Jenny Lovisa,3rd,28,female,0,649
+Hirvonen Mrs Alexander,3rd,22,female,1,650
+Hirvonen Miss Hildur E,3rd,2,female,0,651
+Holm Mr John Frederik Alexander,3rd,43,male,0,652
+Honkanen Miss Eluna,3rd,27,female,1,653
+Humblin Mr Adolf Mathias Nicolai Olsen,3rd,42,male,0,654
+Ilmakangas Miss Ida Livija,3rd,27,female,0,655
+Ilmakangas Miss Pieta Sofia,3rd,25,female,0,656
+Jansen Mr Carl Olof,3rd,27,male,1,657
+Jensen Miss Carla Christine,3rd,19,female,1,658
+Jensen Mr Hans Peder,3rd,20,male,0,659
+Jensen Mr Niels Peder,3rd,48,male,0,660
+Jensen Mr Svend Lauritz,3rd,17,male,0,661
+Johanson Mr Jakob Alfred,3rd,34,male,0,662
+Johansson Mr Erik,3rd,22,male,0,663
+Johansson Mr Gustaff Joel,3rd,33,male,0,664
+Johansson Mr Karl Johan,3rd,32,male,1,665
+Johansson Mr Nils,3rd,29,male,0,666
+Johansson Oscar L,3rd,26,male,1,667
+Johnson Mr Alfred,3rd,49,male,0,668
+Johnson Miss Eleanor Ileen,3rd,1,female,1,669
+Johnson Mr Malkolm Joackim,3rd,33,male,0,670
+Johnson Master Harold Theodor,3rd,4,male,1,671
+Johnson Mrs Oscar W,3rd,24,female,0,672
+Johnson Mr William Cahoone Jr,3rd,19,male,0,673
+Jonsson Mr Carl,3rd,32,male,1,674
+Jonsson Nils Hilding,3rd,27,male,0,675
+Jussila Miss Aina Maria,3rd,21,female,0,676
+Jussila Mr Erik,3rd,32,male,1,677
+Jussila Miss Katriina,3rd,20,female,0,678
+Kallio Mr Nikolai Erland,3rd,17,male,0,679
+Kalvig Mr Johannes K Halverson,3rd,21,male,0,680
+Karajic Mr Milan,3rd,30,male,0,681
+Karlsson Mr Einar Gervasius,3rd,21,male,1,682
+Karlsson Mr Julius Konrad Eugen,3rd,23,male,0,683
+Karlsson Mr Nils August,3rd,22,male,0,684
+Karun Miss Anna Mary,3rd,4,female,1,685
+Karun Mr Franz,3rd,39,male,0,686
+Keane Mr Andrew,3rd,20,male,0,687
+Kelly Miss Anna Kate,3rd,21,female,1,688
+Kelly Mr James,3rd,44,male,0,689
+Kelly Mr James,3rd,42,male,0,690
+Kelly Miss Mary,3rd,21,female,1,691
+Kennedy Mr John,3rd,24,male,0,692
+Kiernan Mr John,3rd,25,male,0,693
+Kiernan Mr Philip,3rd,22,male,0,694
+Kilgannon Mr Thomas,3rd,22,male,0,695
+Kink Mr Anton,3rd,39,male,1,696
+Kink Mrs Anton (Louise Heilmann),3rd,26,female,0,697
+Kink Miss Louise Gretchen,3rd,4,female,1,698
+Kink Miss Maria,3rd,22,female,0,699
+Kink Mr Vincenz,3rd,26,male,0,700
+Klasen Miss Gertrud Emilia,3rd,1.5,female,0,701
+Klasen Mrs Hulda Kristina,3rd,36,female,0,702
+Klasen Mr Klas Albin,3rd,18,male,0,703
+Krekorian Mr Neshan,3rd,25,male,1,704
+Laitinen Miss Kritina Sofia,3rd,37,female,0,705
+Landegren Miss Aurora Adelia,3rd,22,female,1,706
+Lane Mr Patrick,3rd,20,male,0,707
+Lang Mr Fang,3rd,26,male,1,708
+Larsson Mr August Viktor,3rd,29,male,0,709
+Larsson Mr Bengt Edvin,3rd,29,male,0,710
+Larsson-Rondberg Mr Edvard,3rd,22,male,0,711
+Leinonen Mr Antti Gustaf,3rd,32,male,0,712
+Lemom Mr Denis,3rd,21,male,0,713
+Lemon Miss Mary,3rd,21,female,0,714
+Leonard Mr Lionel,3rd,36,male,0,715
+Lester Mr James,3rd,39,male,0,716
+Lindahl Miss Agda V,3rd,25,female,0,717
+Lindblom Miss Augusta Charlotta,3rd,45,female,0,718
+Lindell Mr Edvard Bengtsson,3rd,36,male,0,719
+Lindell Mrs Edvard Bengtsson,3rd,30,female,0,720
+Lindqvist Eino William,3rd,20,male,1,721
+Melkebuk Mrs Philemon,3rd,23,female,0,722
+Salander Mr Karl Johan,3rd,21,male,0,723
+Sandstrom Miss Beatrice Irene,3rd,1.5,female,0,724
+Tornquist Mr William Henry,3rd,25,male,1,725
+Turja Miss Anna Sofia,3rd,18,female,1,726
+Turkula Mrs Hedvig,3rd,63,female,1,727
+Van der Planke Miss Augusta,3rd,18,female,0,728
+Van der Planke Mr Jules,3rd,31,male,0,729
+Van der Planke Mrs Jules,3rd,31,female,0,730
+Van der Planke Mr Leon,3rd,15,male,0,731
+Van der Steen Mr Leo Peter,3rd,28,male,0,732
+Van de Velde Mr John Joseph,3rd,36,male,0,733
+Vandewalle Mr Nestor Cyriel,3rd,28,male,0,734
+Van Impe Miss Catharine,3rd,10,female,0,735
+Van Impe Mr Jean Baptiste,3rd,36,male,0,736
+Van Impe Mrs Jean Baptiste,3rd,30,female,0,737
+Vartunian Mr David,3rd,22,male,1,738
+Vendel Mr Olof Wdvin,3rd,29,male,0,739
+Vereruysse Mr Victor,3rd,47,male,0,740
+Vestrom Miss Hulda Amanda Adolfina,3rd,14,female,0,741
+Vonk Mr Jenko,3rd,22,male,0,742
+Widegren Mr Charles Peter,3rd,51,male,0,743
+Wiklund Mr Jacob Alfred,3rd,18,male,0,744
+Wilkes Mrs Ellen,3rd,45,female,1,745
+Williams Mr Leslie,3rd,28,male,0,746
+Windelov Mr Einar,3rd,21,male,0,747
+Wirz Mr Albert,3rd,27,male,0,748
+Wittevrongel Mr Camiel,3rd,36,male,0,749
+Yasbeck Mr Antoni,3rd,27,male,0,750
+Yasbeck Mrs Antoni,3rd,15,female,1,751
+Zakarian Mr Artun,3rd,27,male,0,752
+Zakarian Mr Maprieder,3rd,26,male,0,753
+Zenni Mr Philip,3rd,22,male,0,754
+Lievens Mr Rene,3rd,24,male,0,755
+Zimmerman Leo,3rd,29,male,0,756
